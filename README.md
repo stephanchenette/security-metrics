@@ -23,17 +23,20 @@ Other definitions are used frequently. For instance, lacking a popular mitigatio
 ### Using very specific language for scenarios
 "[The clarity test](https://en.wikipedia.org/wiki/Clarity_test)" is described [here](https://web.stanford.edu/class/cee115/wiki/uploads/Main/Schedule/DAPracticeAndPromise.pdf).
 
+## Scenario Modeling 
 
-## Experts Estimating Things
+Scenario Modeling vs Probabilitic Forecasting: Will it Rain Tuesday vs There is a 20% probability it will rain Thursday
+
+## Probabalistic Forecasting 
+
+### Experts Estimating Things
 This section generally appeals to how experts can be queried for quantitative data. The process of doing so, industrial examples, history of.
 
 ### Parimutuel betting ([link](https://en.wikipedia.org/wiki/Parimutuel_betting))
 This describes the practice of gathering up forecast material and, typically, averaging it together. Further described in [Probabilistic Forecasts and Reproducing Scoring Systems](https://www.rand.org/pubs/research_memoranda/RM6299.html)
 
 
-
-## References and Reading 
-
+#### References and Reading 
 
 https://www.springer.com/gp/book/9781402082016 <- De Finetti is the "father" of subjective bayesianism (which is at the heart of risk forecasting), and this book is a non-mathy introduction into the mathematics of it, but also what it "means"
 
