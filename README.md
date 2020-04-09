@@ -27,6 +27,8 @@ Other definitions are used frequently. For instance, lacking a popular mitigatio
 
 Scenario Modeling vs Probabilitic Forecasting: Will it Rain Tuesday vs There is a 20% probability it will rain Thursday
 
+The forecast is the %, from an average, from a model, from an expert, from a panel, etc
+
 ## Probabalistic Forecasting 
 
 ### Experts Estimating Things
