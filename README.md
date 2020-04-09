@@ -46,4 +46,6 @@ https://journals.ametsoc.org/doi/pdf/10.1175/2009MWR2945.1 <- this is a pretty g
 
 https://www.amazon.de/dp/B005NZMSM0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 <- "Red-Blooded Risk" - the author has a long career in financial risk management, and ... it's a strange book; it's a bit like going for a long walk with your cranky weird uncle in the second degree that is clearly a bit strange, but has read widely and rambles for a few hours about all the things he has read and seen. So it isn't very "structured", but still enlightening and enjoyable 
 
+https://www.amazon.com/Uncertain-Judgements-Eliciting-Experts-Probabilities/dp/0470029994/ref=sr_1_1 Uncertain Judgements: Eliciting Experts' Probabilities 1st Edition
+
 
